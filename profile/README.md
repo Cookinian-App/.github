@@ -1,7 +1,7 @@
 <h1 align="center"> Cookinian: Smart Cooking App </h1> <br>
 <p align="center">
   <a>
-    <img alt="EasyMeal" title="EasyMeal" src="https://github.com/Team-EasyMeal-C23-PC677/.github/blob/main/profile/logo2.png" width="500" height="500">
+    <img alt="Cookinian" title="Cookinian" src="https://github.com/Cookinian-App/.github/blob/main/profile/Logo%201.png" width="500" height="500">
   </a>
 </p>
 
