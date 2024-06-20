@@ -6,11 +6,11 @@
 </p>
 
 # Introduction
----
+
 Cookinian is an AI-powered cooking app designed to help users by providing recommended recipe suggestions based on the ingredients the user has on hand. Cookinian utilizes artificial intelligence to analyze food ingredients through the phone's camera and provides complete recipe recommendations and steps to make the food.
 
 # Team Member
----
+
 | ID | Name | Path | University |
 | ----------- | :---------: | :----------: | :----------: |
 | A206D4KY4000 | Muhammad Nabil Afkar | Mobile Development | Universitas Gunadarma |
@@ -22,7 +22,7 @@ Cookinian is an AI-powered cooking app designed to help users by providing recom
 | M206D4KY1499 | Rafi Iyad Madani Chaidir | Machine Learning | Universitas Halu Oleo |
 
 # Architecture
----
+
 - **Machine Learning:**
   - Python
   - TensorFlow Lite
@@ -43,7 +43,7 @@ Cookinian is an AI-powered cooking app designed to help users by providing recom
   - Hapi
  
 # Repository
----
+
 | Path | Link |
 | ----------- | :---------: |
 | Android Application Repository | [(https://github.com/Cookinian-App/mobile-development.git)](https://github.com/Cookinian-App/mobile-development) |
