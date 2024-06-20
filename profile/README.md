@@ -1,7 +1,7 @@
 <h1 align="center"> Cookinian: Smart Cooking App </h1> <br>
 <p align="center">
   <a>
-    <img alt="Cookinian" title="Cookinian" src="[https://github.com/Cookinian-App/.github/blob/main/profile/Logo%201.png](https://github.com/Cookinian-App/.github/blob/main/profile/Banner%201.png)">
+    <img alt="Cookinian" title="Cookinian" src="https://github.com/Cookinian-App/.github/blob/main/profile/Logo%201.png">
   </a>
 </p>
 
