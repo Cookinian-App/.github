@@ -52,5 +52,5 @@ Cookinian is an AI-powered cooking app designed to help users by providing recom
 
 # Cookinian Application Download
 
-[![Masak Apa](https://img.shields.io/badge/Cookinian.svg?style=for-the-badge&logo=android)](https://bit.ly/cookinian-apk)
+[![Masak Apa](https://img.shields.io/badge/Cookinian?style=for-the-badge&logo=android)](https://bit.ly/cookinian-apk)
 
