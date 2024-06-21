@@ -49,3 +49,8 @@ Cookinian is an AI-powered cooking app designed to help users by providing recom
 | Android Application Repository | [https://github.com/Cookinian-App/mobile-development](https://github.com/Cookinian-App/mobile-development) |
 | Machine Learning Repository | [https://github.com/Cookinian-App/machine-learning](https://github.com/Cookinian-App/machine-learning) |
 | Cloud Computing Backend API Repository | [https://github.com/Cookinian-App/cloud-computing](https://github.com/Cookinian-App/cloud-computing) |
+
+# Cookinian Application Download
+
+[![Cookinian](https://img.shields.io/badge/MasakApa🥗-APK-black.svg?style=for-the-badge&logo=Cookinian&logoColor=white&logo=https%3A%2F%2Fraw.githubusercontent.com%2FCookinian-App%2F.github%2Fmain%2Fprofile%2FLogo%2520Cookinian.svg)](https://bit.ly/cookinian-apk)
+
