@@ -13,8 +13,8 @@ Cookinian is an AI-powered cooking app designed to help users by providing recom
 
 | ID | Name | Path | University |
 | ----------- | :---------: | :----------: | :----------: |
-| A206D4KY4000 | Muhammad Nabil Afkar | Mobile Development | Universitas Gunadarma |
-| A009D4KY4411 | Irfan Muqorib | Mobile Development | Universitas Halu Oleo |
+| A206D4KY4000 | Muhammad Nabil Afkar | Mobile Development | Universitas Halu Oleo |
+| A009D4KY4411 | Irfan Muqorib | Mobile Development | Universitas Gunadarma |
 | C009D4KY0288 | Hendra Kusuma | Cloud Computing | Universitas Gunadarma |
 | C008D4KY0635 | Ariq Rajjaz Sumadewa | Cloud Computing | Universitas Gadjah Mada |
 | M206D4KY1811 | Ahmad Fadli Ramadhan | Machine Learning | Universitas Halu Oleo |
